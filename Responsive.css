@@ -1,0 +1,138 @@
+@media screen and (max-width : 769px) {
+    .navbar{
+        height: 50px;
+    }
+   .add-first{
+    width: 55px;
+    font-size: 12px;
+   }
+
+   .add-second{
+    font-size: 14px;
+   }
+   
+   .add-icon{
+    width: 15px;
+    height: 18px;
+    margin: 2px 0px 0px;
+   }
+
+
+   .nav-search{
+    width: 310px;
+    height: 36px;
+   }
+
+   .nev-select{
+    width: 45px;
+    
+   }
+
+    .search-icon{
+    width: 45px;
+    
+   }
+
+   span {
+    font-size: 12px;
+   }
+
+   .nev-second {
+    font-size: 14px;
+    font-weight: 500;
+   }
+
+   .nev-signin {
+    width: 113px;
+    gap: 0px;
+
+   }
+
+   nev-cart{
+    font-size: 14px;
+    align-items: center;
+
+   }
+
+   .panel{
+    height: 37px;
+   }
+
+   .panel-all {
+    font-size: 15px;
+    width: 60px; 
+    margin: 5px 0px 6px;
+    /* padding: 8px 5px ; */
+   }
+
+   .panel-options{
+    width: 500px;
+   }
+
+   .panel-options p {
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 5px;
+   }
+
+   .panel-deals{
+    font-size: medium;
+    font-weight: 400;
+   }
+
+   .hero-section{
+    height: 215px;
+   }
+
+   .hero-msg{
+    width: 680px;
+   }
+
+   .hero-msg p{
+    font-size: 11px;
+
+   }
+   .hero-msg a{
+    font-size: 12px;
+   }
+
+   .box{
+     height: 200px;
+    width: 230px;
+    padding: 15px 0px 12px;
+    margin-top: 12px;
+
+   }
+
+   .box-img {
+    height: 160px;
+    margin: 5px;
+   }
+
+   .box-content h2{
+    font-size: 15px;
+   }
+
+
+   .box-content p{
+    font-size: 13px;
+   }
+
+   .foot-panel3{
+    height: 50px;
+   }
+
+   .foot-panel4{
+    height: 70px;
+   }
+   .pages {
+    padding-top: 18px;;
+
+}
+
+.copyright{
+    padding-top: 3px;
+
+}
+
+}
